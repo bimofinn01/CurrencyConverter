@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    
+    <string-array name="currency_list">
+        <item>UAH - Ukrainian hryvnia</item>
+        <item>USD - United States dollar</item>
+        <item>EUR - EURO</item>
+        <item>GBP - British Pound</item>
+        <item>PLN - Polish zloty</item>
+    </string-array>
+</resources>
